@@ -1,6 +1,6 @@
 # Predicting Wine Quality with Several Classification Techniques
 
-![Wine Quality Prediction](https://i.imgur.com/8Zm1B0l.png)
+![Wine Quality Prediction](https://pub.mdpi-res.com/beverages/beverages-09-00041/article_deploy/html/images/beverages-09-00041-ag.png?1683366649)
 
 ## Project Description
 This project develops a machine learning model to predict wine quality using physicochemical properties. The analysis compares four classification algorithms to identify the most effective approach for distinguishing high-quality wines (quality > 6) from standard wines. The solution provides actionable insights for winemakers to optimize production processes.
